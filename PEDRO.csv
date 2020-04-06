@@ -1,0 +1,9 @@
+ID,PRODUCT,CAMERA,ShaderFabric,ShaderWood,ShaderMetal,ShaderPlastic,ShaderFabricBlack,SKU,ColorCorrect,CCID
+1,PEDRO_2SEATER.FBX,CAMERA_MAINFRONT,ShaderFabric_LeatherBlack,ShaderWood_Black,,,,PEDRO_2SEATER_FRONT,CC_LeatherBlack,0
+2,PEDRO_2SEATER.FBX,CAMERA_MAINPRESPECTIVE,ShaderFabric_LeatherBlack,ShaderWood_Black,,,,PEDRO_2SEATER_PRESPECTIVE,CC_LeatherBlack,0
+3,PEDRO_3SEATER.FBX,CAMERA_MAINFRONT,ShaderFabric_LeatherScarlet,ShaderWood_Black,,,,PEDRO_3SEATER_FRONT,CC_LeatherScarlet,1
+4,PEDRO_3SEATER.FBX,CAMERA_MAINPRESPECTIVE,ShaderFabric_LeatherScarlet,ShaderWood_Black,,,,PEDRO_3SEATER_PRESPECTIVE,CC_LeatherScarlet,1
+5,PEDRO_ARMCHAIR.FBX,CAMERA_MAINFRONT,ShaderFabric_LeatherGrey,ShaderWood_Black,,,,PEDRO_ARMCHAIR_FRONT,CC_LeatherGrey,2
+6,PEDRO_ARMCHAIR.FBX,CAMERA_MAINPRESPECTIVE,ShaderFabric_LeatherGrey,ShaderWood_Black,,,,PEDRO_ARMCHAIR_PRESPECTIVE,CC_LeatherGrey,2
+7,PEDRO_FOOTSTOOL.FBX,CAMERA_MAINFRONT,ShaderFabric_LeatherOldlace,ShaderWood_Black,,,,PEDRO_FOOTSTOOL_FRONT,CC_LeatherOldlace,3
+8,PEDRO_FOOTSTOOL.FBX,CAMERA_MAINPRESPECTIVE,ShaderFabric_LeatherOldlace,ShaderWood_Black,,,,PEDRO_FOOTSTOOL_PRESPECTIVE,CC_LeatherOldlace,3
